@@ -1,3 +1,13 @@
+/*____________________________________________________________________________________________________________________________________________________________________________
+script purpose:
+  we create new database Data warehouse .
+  And as we follow medallion arhitecture we create three schemas bronze , silver , gold
+  */
+
+
+
+
+  
 use master;
 
 
